@@ -4,7 +4,11 @@
       {
         "name": "Mission Chinese Food",
         "neighborhood": "Manhattan",
-        "photograph": "1",
+        "photograph": {
+          "large_2x": "1-large-2x.webp",
+          "large": "1-large.webp",
+          "medium": "1-medium.webp"
+        },
         "address": "171 E Broadway, New York, NY 10002",
         "latlng": {
           "lat": 40.713829,
@@ -30,13 +34,13 @@
           {
             "name": "Morgan",
             "date": "October 26, 2016",
-            "rating": "4",
+            "rating": 4,
             "comments": "This place is a blast. Must orders: GREEN TEA NOODS, sounds gross (to me at least) but these were incredible!, Kung pao pastrami (but you already knew that), beef tartare was a fun appetizer that we decided to try, the spicy ma po tofu SUPER spicy but delicous, egg rolls and scallion pancake i could have passed on... I wish we would have gone with a larger group, so much more I would have liked to try!"
           },
           {
             "name": "Jason",
             "date": "October 26, 2016",
-            "rating": "3",
+            "rating": 3,
             "comments": "I was VERY excited to come here after seeing and hearing so many good things about this place. Having read much, I knew going into it that it was not going to be authentic Chinese. The place was edgy, had a punk rock throwback attitude, and generally delivered the desired atmosphere. Things went downhill from there though. The food was okay at best and the best qualities were easily overshadowed by what I believe to be poor decisions by the kitchen staff."
           }
         ],
@@ -47,7 +51,11 @@
       {
         "name": "Emily",
         "neighborhood": "Brooklyn",
-        "photograph": "2",
+        "photograph": {
+          "large_2x": "2-large-2x.webp",
+          "large": "2-large.webp",
+          "medium": "2-medium.webp"
+        },
         "address": "919 Fulton St, Brooklyn, NY 11238",
         "latlng": {
           "lat": 40.683555,
@@ -90,7 +98,11 @@
       {
         "name": "Kang Ho Dong Baekjeong",
         "neighborhood": "Manhattan",
-        "photograph": "3",
+        "photograph": {
+          "large_2x": "3-large-2x.webp",
+          "large": "3-large.webp",
+          "medium": "3-medium.webp"
+        },
         "address": "1 E 32nd St, New York, NY 10016",
         "latlng": {
           "lat": 40.747143,
@@ -133,7 +145,11 @@
       {
         "name": "Katz's Delicatessen",
         "neighborhood": "Manhattan",
-        "photograph": "4",
+        "photograph": {
+          "large_2x": "4-large-2x.webp",
+          "large": "4-large.webp",
+          "medium": "4-medium.webp"
+        },
         "address": "205 E Houston St, New York, NY 10002",
         "latlng": {
           "lat": 40.722216,
@@ -176,7 +192,11 @@
       {
         "name": "Roberta's Pizza",
         "neighborhood": "Brooklyn",
-        "photograph": "5",
+        "photograph": {
+          "large_2x": "5-large-2x.webp",
+          "large": "5-large.webp",
+          "medium": "5-medium.webp"
+        },
         "address": "261 Moore St, Brooklyn, NY 11206",
         "latlng": {
           "lat": 40.705089,
@@ -219,7 +239,11 @@
       {
         "name": "Hometown BBQ",
         "neighborhood": "Brooklyn",
-        "photograph": "6",
+        "photograph": {
+          "large_2x": "6-large-2x.webp",
+          "large": "6-large.webp",
+          "medium": "6-medium.webp"
+        },
         "address": "454 Van Brunt St, Brooklyn, NY 11231",
         "latlng": {
           "lat": 40.674925,
@@ -262,7 +286,11 @@
       {
         "name": "Superiority Burger",
         "neighborhood": "Manhattan",
-        "photograph": "7",
+        "photograph": {
+          "large_2x": "7-large-2x.webp",
+          "large": "7-large.webp",
+          "medium": "7-medium.webp"
+        },
         "address": "430 E 9th St, New York, NY 10009",
         "latlng": {
           "lat": 40.727397,
@@ -305,7 +333,11 @@
       {
         "name": "The Dutch",
         "neighborhood": "Manhattan",
-        "photograph": "8",
+        "photograph": {
+          "large_2x": "8-large-2x.webp",
+          "large": "8-large.webp",
+          "medium": "8-medium.webp"
+        },
         "address": "131 Sullivan St, New York, NY 10012",
         "latlng": {
           "lat": 40.726584,
@@ -348,7 +380,11 @@
       {
         "name": "Mu Ramen",
         "neighborhood": "Queens",
-        "photograph": "9",
+        "photograph": {
+          "large_2x": "9-large-2x.webp",
+          "large": "9-large.webp",
+          "medium": "9-medium.webp"
+        },
         "address": "1209 Jackson Ave, Queens, NY 11101",
         "latlng": {
           "lat": 40.743797,
@@ -391,6 +427,11 @@
       {
         "name": "Casa Enrique",
         "neighborhood": "Queens",
+        "photograph": {
+          "large_2x": "10-large-2x.webp",
+          "large": "10-large.webp",
+          "medium": "10-medium.webp"
+        },
         "address": "5-48 49th Ave, Queens, NY 11101",
         "latlng": {
           "lat": 40.743394,
